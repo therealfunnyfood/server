@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "49345dbf95e44e31a88432b27ab17b5a"
+	name: "Misawaboy"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

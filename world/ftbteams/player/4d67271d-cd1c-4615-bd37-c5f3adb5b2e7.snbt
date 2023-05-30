@@ -1,0 +1,24 @@
+{
+	id: "4d67271d-cd1c-4615-bd37-c5f3adb5b2e7"
+	type: "player"
+	player_name: "Allgamermarc"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_and_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"ftbteams:display_name": "Allgamermarc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

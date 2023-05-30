@@ -1,0 +1,27 @@
+{
+	id: "558fa340-85db-4369-9d45-fe90993fc7fe"
+	type: "party"
+	owner: "49345dbf-95e4-4e31-a884-32b27ab17b5a"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_and_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"ftbteams:display_name": "Misawaboy's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D0FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1684952633099L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Misawaboy\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1684952853968L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Misawaboy\"}]}" }
+	]
+	extra: { }
+}

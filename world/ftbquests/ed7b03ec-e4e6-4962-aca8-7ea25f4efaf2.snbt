@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "ed7b03ece4e64962aca87ea25f4efaf2"
+	name: "Lux_Icarus"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

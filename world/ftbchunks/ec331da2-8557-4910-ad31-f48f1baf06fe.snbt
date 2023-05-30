@@ -1,0 +1,84 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1685458707719L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -46, z: -30, time: 1685118908196L }
+			{ x: -46, z: -29, time: 1685118909807L }
+			{ x: -79, z: -19, time: 1685120937659L }
+			{ x: -79, z: -18, time: 1685135836265L, force_loaded: 1685136490700L, expiry_time: 2143671310771L }
+			{ x: -79, z: -17, time: 1685138009473L, force_loaded: 1685138010441L, expiry_time: 1896308485297L }
+			{ x: -79, z: -16, time: 1685200133749L, force_loaded: 1685200134535L, expiry_time: 2060813835931L }
+			{ x: -79, z: -21, time: 1685110856301L }
+			{ x: -77, z: -19, time: 1685137989992L, force_loaded: 1685137995670L, expiry_time: 1808007809610L }
+			{ x: -79, z: -20, time: 1685110856839L }
+			{ x: -77, z: -18, time: 1685137989502L, force_loaded: 1685137995394L, expiry_time: 1860020526330L }
+			{ x: -41, z: -34, time: 1685118914141L }
+			{ x: -43, z: -31, time: 1685118903296L }
+			{ x: -45, z: -33, time: 1685118905962L }
+			{ x: -45, z: -32, time: 1685118903766L }
+			{ x: -43, z: -30, time: 1685118911397L }
+			{ x: -45, z: -31, time: 1685118852103L }
+			{ x: -43, z: -29, time: 1685118911091L }
+			{ x: -45, z: -30, time: 1685118850821L }
+			{ x: -47, z: -32, time: 1685118951467L }
+			{ x: -41, z: -33, time: 1685118913741L }
+			{ x: -41, z: -32, time: 1685118913396L }
+			{ x: -43, z: -34, time: 1685118914842L }
+			{ x: -43, z: -33, time: 1685118902816L }
+			{ x: -41, z: -31, time: 1685118913006L }
+			{ x: -43, z: -32, time: 1685118900791L }
+			{ x: -45, z: -34, time: 1685118915621L }
+			{ x: -45, z: -29, time: 1685118910156L }
+			{ x: -47, z: -31, time: 1685118918107L }
+			{ x: -47, z: -30, time: 1685118918393L }
+			{ x: -78, z: -18, time: 1685135836608L, force_loaded: 1685136490222L, expiry_time: 1806798204232L }
+			{ x: -78, z: -17, time: 1685138477415L, force_loaded: 1685138478140L, expiry_time: 1878769301727L }
+			{ x: -80, z: -17, time: 1685200133187L, force_loaded: 1685200135002L, expiry_time: 1853367760039L }
+			{ x: -78, z: -20, time: 1685120916099L }
+			{ x: -78, z: -19, time: 1685120925534L, force_loaded: 1685199885239L, expiry_time: 1800145423564L }
+			{ x: -44, z: -32, time: 1685118900388L }
+			{ x: -42, z: -30, time: 1685118911897L }
+			{ x: -44, z: -31, time: 1685118852102L }
+			{ x: -46, z: -33, time: 1685118915996L }
+			{ x: -44, z: -30, time: 1685118851767L }
+			{ x: -46, z: -32, time: 1685118907861L }
+			{ x: -46, z: -31, time: 1685118908911L }
+			{ x: -44, z: -29, time: 1685118910571L }
+			{ x: -42, z: -34, time: 1685118914487L }
+			{ x: -42, z: -33, time: 1685118902538L }
+			{ x: -42, z: -32, time: 1685118902189L, force_loaded: 1685250794795L }
+			{ x: -44, z: -34, time: 1685118915189L }
+			{ x: -44, z: -33, time: 1685118899641L }
+			{ x: -42, z: -31, time: 1685118912292L }
+		]
+	}
+	member_data: {
+		ade5db33-ce66-4959-89a4-f100d7488a6c: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		49345dbf-95e4-4e31-a884-32b27ab17b5a: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		ed7b03ec-e4e6-4962-aca8-7ea25f4efaf2: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		2bc95eb7-7333-4751-b1c8-83e7da58ba8f: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		4d67271d-cd1c-4615-bd37-c5f3adb5b2e7: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+	}
+}

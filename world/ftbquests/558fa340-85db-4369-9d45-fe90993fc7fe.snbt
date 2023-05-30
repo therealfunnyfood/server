@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "558fa34085db43699d45fe90993fc7fe"
+	name: "Misawaboy's Party"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
